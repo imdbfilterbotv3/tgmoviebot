@@ -1,9 +1,9 @@
 class Script(object):
-    START_TXT = """Hello {},
+    START_TXT = """Hey {},
 
 My name is <a href=https://t.me/{}>{}</a>!
 
-<b>I can provide Movies. A Telegram Auto Filter Bot. Its Easy To Use Me :)
+<b>I can provide Movies. A Telegram Auto Bot. Its Easy To Use Me :)
 
 Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
 
@@ -11,12 +11,12 @@ Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
 
 <b>Here Is The Help For My Commands.</b>"""
 
-    ABOUT_TXT = """<b>➥ My name: {}
+    ABOUT_TXT = """<b>➥ Bo name: {}
 ➥ Creator: <a href='https://t.me/zautekm'>Zaute Km</a>
 ➥ Library: <a href='https://docs.pyrogram.org/'>Pyrogram</a>
 ➥ Language: Python 𝟹
 ➥ Data Base: <a href='https://www.mongodb.com/'>MongoDB</a>
-➥ Bot Server: <a href='https://heroku.com'>Heroku</a>
+➥ Bet Server: <a href='https://heroku.com'>Heroku</a>
 ➥ Build Status: v2.0.1 [ Beta ]"""
 
     SOURCE_TXT = """<b>Source:</b>
